@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ilb:home|Door43 (ilb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ilb|d43-ilb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ilb/archive/master.zip|d43-ilb.zip]]
+
+**Recent Changes**
+{{changes>ns = ilb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ilb|Ethnologue data]]
+
